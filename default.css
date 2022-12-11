@@ -17,6 +17,5 @@ img {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    width: 50%;
-    heigth: 50%;
+    width: 40%;
 }
