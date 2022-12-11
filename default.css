@@ -9,14 +9,14 @@ a {
 }
 
 p {
-    max-width: 300em;
+    max-width: 100em;
 }
 
 img {
   max-width: 100%;
 }
 
-.flex-container-1 {
+.root-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -24,9 +24,13 @@ img {
     width: 80%;
 }
 
+.sub-container {
+    margin: 10em;
+}
+
 .word-container {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    max-heigth: 15em;
+    max-heigth: 10em;
 }
