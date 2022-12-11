@@ -10,10 +10,12 @@ a {
 }
 
 p {
+    max-width: 100%;
     max-width: 50em;
 }
 
 img {
+    max-width: 100%;
     max-width: 50em;
     max-height: 70%;
 }
