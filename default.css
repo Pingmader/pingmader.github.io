@@ -35,6 +35,10 @@ img {
     max-height: 5em;
 }
 
+.li-bandcamp li {
+    content: "🍪";
+}
+
 .li-bandcamp li:before {
     content: "<i class="fa-brands fa-bandcamp"></i>";
 }
