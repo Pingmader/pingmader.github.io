@@ -8,6 +8,10 @@ a {
     color: #6cbacc;
 }
 
+p {
+    max-width: 300em;
+}
+
 img {
   max-width: 100%;
 }
