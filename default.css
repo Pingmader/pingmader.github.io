@@ -20,6 +20,11 @@ img {
     max-height: 70%;
 }
 
+th {
+    text-align: left;
+    padding: 0.15em;
+}
+
 .root-container {
     display: flex;
     flex-direction: row;
@@ -30,14 +35,4 @@ img {
 .sub-container {
     margin: 1em;
     max-width: 100%;
-}
-
-li {
-    list-style-type: none;
-    padding: 0.15em;
-}
-
-th {
-    text-align: left;
-    padding: 0.15em;
 }
