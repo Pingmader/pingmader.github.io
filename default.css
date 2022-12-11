@@ -34,3 +34,7 @@ img {
     flex-wrap: wrap;
     max-heigth: 5em;
 }
+
+.li-bandcamp li:before {
+    content: "X";
+}
