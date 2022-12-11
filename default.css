@@ -23,3 +23,10 @@ img {
     justify-content: center;
     width: 80%;
 }
+
+.word-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-heigth: 15em;
+}
