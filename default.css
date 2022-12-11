@@ -36,5 +36,5 @@ img {
 }
 
 .li-bandcamp li:before {
-    content: "X";
+    content: "<i class="fa-brands fa-bandcamp"></i>";
 }
