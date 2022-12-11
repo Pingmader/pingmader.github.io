@@ -9,11 +9,11 @@ a {
 }
 
 p {
-    max-width: 100em;
+    max-width: 50em;
 }
 
 img {
-    max-width: 100em;
+    max-width: 50em;
 }
 
 .root-container {
@@ -32,7 +32,7 @@ img {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    max-heigth: 5em;
+    max-height: 5em;
 }
 
 .li-bandcamp li:before {
