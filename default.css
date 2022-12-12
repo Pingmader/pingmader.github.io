@@ -10,14 +10,17 @@ a {
 }
 
 p {
-    max-width: 100%;
-    max-width: 50em;
+    margin-left: 2em;
 }
 
 img {
-    max-width: 100%;
-    max-width: 50em;
+    max-width: min(100%, 50em);
     max-height: 70%;
+    margin-left: 2em;
+}
+
+table {
+    margin-left: 2em;
 }
 
 th {
@@ -33,6 +36,6 @@ th {
 }
 
 .sub-container {
+    max-width: 50em;
     margin: 1em;
-    max-width: 100%;
 }
