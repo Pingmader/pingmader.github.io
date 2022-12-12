@@ -16,7 +16,6 @@ p {
 img {
     max-width: min(100%, 50em);
     max-height: 70%;
-    margin-left: 2em;
 }
 
 table {
